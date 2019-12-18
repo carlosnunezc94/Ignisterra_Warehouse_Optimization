@@ -18,4 +18,4 @@ If we add to the increase in inventory the fact that it is disorganized, with mi
 
 Although this generalized inventory disorder has had an impact on the operation, it does not impede the operation of the company in terms of remanufacturing the material. The following diagram summarizes the information gathered in our analysis:
 
-![Ishikawa Diagram](/images/Fishbone_diagram.png)
+![Ishikawa Diagram](/images/Fishbone_diagram.PNG)
