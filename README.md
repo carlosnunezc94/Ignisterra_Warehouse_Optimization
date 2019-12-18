@@ -17,3 +17,5 @@ Indeed, it can be seen that the company's inventory levels have continuously inc
 If we add to the increase in inventory the fact that it is disorganized, with mixed woods independent of their visual quality, and considering that each order considers different types of wood, thicknesses and lengths, the problem intensifies exponentially. This has triggered increases in delivery times, mainly due to the lack of knowledge of the location of the requested woods.
 
 Although this generalized inventory disorder has had an impact on the operation, it does not impede the operation of the company in terms of remanufacturing the material. The following diagram summarizes the information gathered in our analysis:
+
+![Ishikawa Diagram](/images/Fishbone_diagram.png)
