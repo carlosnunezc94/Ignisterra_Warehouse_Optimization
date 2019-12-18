@@ -19,3 +19,9 @@ If we add to the increase in inventory the fact that it is disorganized, with mi
 Although this generalized inventory disorder has had an impact on the operation, it does not impede the operation of the company in terms of remanufacturing the material. The following diagram summarizes the information gathered in our analysis:
 
 ![Ishikawa Diagram](/images/Fishbone_diagram.PNG)
+
+## The Solution
+
+Due to Ignisterra's corporate culture, focusing our efforts on reducing inventory was a bad idea, as the company was already working on some proposals associated with the addition of new products to its portfolio, such as the production of biomass and the sale of firewood. That is why we focused on the second major cause of inventory disorder, which was the poor distribution of the area of the woods and consequently mixing them between areas.
+
+
