@@ -13,3 +13,7 @@ Due to the suspicions we had, we requested the necessary information to be able 
 ![Stackplot Time Series: Stock of inventory per type of Wood per Year](/images/StackPlot.png)
 
 Indeed, it can be seen that the company's inventory levels have continuously increased over the last 5 years, reaching a total inventory of **5796.12 cubic meters**. Of the total, **Standard** class wood is the wood with the largest presence in Ignisterra's warehouse, contributing **75.7%** of the final inventory. In second place is the **Economic** type of wood, with **10.9%**. This is a clear indication that regular or poor quality woods have had a higher arrival rate than their departure rate in recent years.
+
+If we add to the increase in inventory the fact that it is disorganized, with mixed woods independent of their visual quality, and considering that each order considers different types of wood, thicknesses and lengths, the problem intensifies exponentially. This has triggered increases in delivery times, mainly due to the lack of knowledge of the location of the requested woods.
+
+Although this generalized inventory disorder has had an impact on the operation, it does not impede the operation of the company in terms of remanufacturing the material. The following diagram summarizes the information gathered in our analysis:
