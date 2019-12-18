@@ -11,3 +11,5 @@ Within our situation analysis process, the first question we asked ourselves was
 Due to the suspicions we had, we requested the necessary information to be able to graph the stock of inventory stored during the last 4 and a half years:
 
 ![Stackplot Time Series: Stock of inventory per type of Wood per Year](/images/StackPlot.png)
+
+Indeed, it can be seen that the company's inventory levels have continuously increased over the last 5 years, reaching a total inventory of **5796.12 cubic meters**. Of the total, **Standard** class wood is the wood with the largest presence in Ignisterra's warehouse, contributing **75.7%** of the final inventory. In second place is the **Economic** type of wood, with **10.9%**. This is a clear indication that regular or poor quality woods have had a higher arrival rate than their departure rate in recent years.
