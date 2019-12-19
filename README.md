@@ -28,3 +28,4 @@ Due to Ignisterra's corporate culture, focusing our efforts on reducing inventor
 
 As can be seen in the layout shown below, the spatial dimensions of the problem are as follows:
 
+![Layout_Company](images/Layout_Company.PNG)
