@@ -36,6 +36,6 @@ As can be seen in the layout shown below, the spatial dimensions of the problem 
 - Exterior of the factory with roofed space: 864 square meters.
 - Outside the factory without roofed space: 2698 square meters, of which 144 square meters will be considered within the scope of the problem.
 
-###Objectives and performance measures
+### Objectives and performance measures
 
 In order to maintain a layout that allows the fuel to be used by the storage machinery to be reduced, the different types of wood will be distributed in such a way as to **minimize the total distance traveled by these machines considering a fixed rotation level for each type of wood**.
