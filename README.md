@@ -31,3 +31,7 @@ As can be seen in the layout shown below, the spatial dimensions of the problem 
 <p align="center">
 <img src="/images/Layout_Company.PNG" alt="Company_Layout">
 </p>
+
+- Factory interior: 625.5 square meters.
+- Exterior of the factory with roofed space: 864 square meters.
+- Outside the factory without roofed space: 2698 square meters, of which 144 square meters will be considered within the scope of the problem.
