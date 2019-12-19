@@ -20,8 +20,11 @@ Although this generalized inventory disorder has had an impact on the operation,
 
 ![Ishikawa Diagram](/images/Fishbone_diagram.PNG)
 
-## The Solution
+## Problem Formulation
 
 Due to Ignisterra's corporate culture, focusing our efforts on reducing inventory was a bad idea, as the company was already working on some proposals associated with the addition of new products to its portfolio, such as the production of biomass and the sale of firewood. That is why we focused on the second major cause of inventory disorder, which was the poor distribution of the area of the woods and consequently mixing them between areas.
 
+### Spatial Dimensions
+
+As can be seen in the layout shown below, the spatial dimensions of the problem are as follows:
 
