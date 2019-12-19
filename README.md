@@ -38,4 +38,4 @@ As can be seen in the layout shown below, the spatial dimensions of the problem 
 
 ### Objectives and performance measures
 
-In order to maintain a layout that allows the fuel to be used by the storage machinery to be reduced, the different types of wood will be distributed in such a way as to **minimize the total distance traveled by these machines considering a fixed rotation level for each type of wood**.
+In order to maintain a layout that allows the fuel to be used by the storage machinery to be reduced, the different types of wood will be distributed in such a way as to **minimize the total distance traveled by these machines considering a fixed rotation level for each one of them**.
